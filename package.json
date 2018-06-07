@@ -2,7 +2,7 @@
   "name": "first_project",
   "private": true,
   "dependencies": {
-    "@plated/plated_kit": "^0.0.3",
+    "@plated/plated_kit": "0.0.3",
     "@rails/webpacker": "3.5",
     "babel-preset-react": "^6.24.1",
     "prop-types": "^15.6.1",
